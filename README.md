@@ -1,2 +1,2 @@
 # ObjectSpotter
-A Web App using Flask Framework of Python which will Detect Objects and finding out their names from images by using Python's OpenCV library using Pre-Trained Coco Dataset.
+Experience the power of computer vision with our web app built on Flask, a Python web framework. Leveraging the OpenCV library and a pre-trained COCO dataset, our app detects objects in images and identifies them by name. With a simple and intuitive interface, users can upload images and receive instant results, making object recognition accessible to everyone. Whether you're a developer exploring computer vision or a curious user interested in understanding the contents of images, our web app provides a seamless and efficient solution.
